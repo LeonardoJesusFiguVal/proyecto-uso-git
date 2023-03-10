@@ -1,1 +1,1 @@
-<?php echo "Today I die\n";?>
+<?php echo "Today I die\nIn a world full of sorrow and tears.";?>
